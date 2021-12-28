@@ -1,0 +1,15 @@
+C:\Users\polya\Desktop\Test work\Programm\bin\Debug\net6.0\Test work.exe
+C:\Users\polya\Desktop\Test work\Programm\bin\Debug\net6.0\Test work.deps.json
+C:\Users\polya\Desktop\Test work\Programm\bin\Debug\net6.0\Test work.runtimeconfig.json
+C:\Users\polya\Desktop\Test work\Programm\bin\Debug\net6.0\Test work.dll
+C:\Users\polya\Desktop\Test work\Programm\bin\Debug\net6.0\ref\Test work.dll
+C:\Users\polya\Desktop\Test work\Programm\bin\Debug\net6.0\Test work.pdb
+C:\Users\polya\Desktop\Test work\Programm\obj\Debug\net6.0\Test work.csproj.AssemblyReference.cache
+C:\Users\polya\Desktop\Test work\Programm\obj\Debug\net6.0\Test work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polya\Desktop\Test work\Programm\obj\Debug\net6.0\Test work.AssemblyInfoInputs.cache
+C:\Users\polya\Desktop\Test work\Programm\obj\Debug\net6.0\Test work.AssemblyInfo.cs
+C:\Users\polya\Desktop\Test work\Programm\obj\Debug\net6.0\Test work.csproj.CoreCompileInputs.cache
+C:\Users\polya\Desktop\Test work\Programm\obj\Debug\net6.0\Test work.dll
+C:\Users\polya\Desktop\Test work\Programm\obj\Debug\net6.0\ref\Test work.dll
+C:\Users\polya\Desktop\Test work\Programm\obj\Debug\net6.0\Test work.pdb
+C:\Users\polya\Desktop\Test work\Programm\obj\Debug\net6.0\Test work.genruntimeconfig.cache
