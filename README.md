@@ -9,3 +9,15 @@ The number of elements in the array is set by the custom keyboard. Then the elem
 
 ![Block diagramm](BlockDiagram.png)
 
+## My repository
+___
+
+You can find my repository at the link: 
+
+[My repo](https://github.com/PolinaBrag/TestWork)
+
+
+## Creators
+___
+
+Project created by _**Bragina Polina**_.
