@@ -35,7 +35,7 @@ int[] newArray = new int[firstArray.Length];
 
     for (int i = 0; i < firstArray.Length; i++)
     {
-        if (firstArray[i] >= checkNumber)
+        if (firstArray[i] > checkNumber)
         {
             newArray[i] = firstArray[i];
             Console.Write(newArray[i] + " ");
