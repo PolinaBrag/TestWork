@@ -42,4 +42,3 @@ int[] newArray = new int[firstArray.Length];
         }
     }
     Console.WriteLine("]");
-
